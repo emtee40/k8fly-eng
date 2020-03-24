@@ -1,4 +1,4 @@
 # k8fly
-k8逆向工程，vs2010，webshell、cmdshell、exploit-db、xss、cookiebrowser
+k8 reverse engineering，vs2010，webshell、cmdshell、exploit-db、xss、cookiebrowser
 
-漏洞数据库是2016年的，可以自己下载最新漏洞，替换mdb数据库即可。
+The vulnerability database is from 2016. You can download the latest vulnerability yourself and replace the mdb database.
